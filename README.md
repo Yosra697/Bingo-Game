@@ -49,10 +49,7 @@ This project implements a Bingo game with both RMI (Remote Method Invocation) an
 ## Contributors
 
 - [Seyfeddine Jouini](https://github.com/seyfeddine-jouini)
-- [Yosra Sassi](https://github.com/yosra-sassi)
+- [Yosra Sassi](https://github.com/Yosra697)
 
 Feel free to explore and contribute!
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
